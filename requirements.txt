@@ -44,7 +44,6 @@ protobuf==5.27.3
 pyaes==1.6.1
 pyarrow==17.0.0
 pyasn1==0.6.0
-pycairo==1.26.1
 pydantic==1.10.17
 pydeck==0.9.1
 Pygments==2.18.0
@@ -67,7 +66,6 @@ SecretStorage==3.3.1
 six==1.16.0
 smmap==5.0.1
 streamlit==1.37.1
-systemd-python==234
 Telethon==1.26.0
 tenacity==8.5.0
 tg-login==0.0.4
