@@ -9,7 +9,6 @@ cachetools==5.5.0
 certifi==2024.7.4
 charset-normalizer==3.3.2
 click==8.1.7
-command-not-found==0.3
 commonmark==0.9.1
 cryptg==0.4.0
 cryptography==3.4.8
@@ -68,6 +67,7 @@ SecretStorage==3.3.1
 six==1.16.0
 smmap==5.0.1
 streamlit==1.37.1
+systemd-python==234
 Telethon==1.26.0
 tenacity==8.5.0
 tg-login==0.0.4
