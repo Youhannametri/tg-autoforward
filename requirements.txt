@@ -47,7 +47,6 @@ pyasn1==0.6.0
 pydantic==1.10.17
 pydeck==0.9.1
 Pygments==2.18.0
-PyGObject==3.42.1
 PyJWT==2.3.0
 pymongo==4.8.0
 pyparsing==2.4.7
