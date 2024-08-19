@@ -51,7 +51,6 @@ PyJWT==2.3.0
 pymongo==4.8.0
 pyparsing==2.4.7
 pytesseract==0.3.13
-python-apt==2.4.0+ubuntu2
 python-dateutil==2.9.0.post0
 python-dotenv==0.21.1
 pytz==2024.1
